@@ -1,2 +1,2 @@
 # Complex Calculator
-This is a calculato0r program made in python by **napoleanBonaparte**.
+This is a calculator program made in python by **napoleanBonaparte**.
